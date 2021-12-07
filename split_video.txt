@@ -1,0 +1,2 @@
+ffmpeg -i input.mp4 frames%06d.png
+
